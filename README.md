@@ -11,5 +11,5 @@ login creation based on Pedro Tech project
 
 ## Run Project
 
-front - yarn start
-back - node index.js
+- front - yarn start
+- back - node index.js
