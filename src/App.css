@@ -2,9 +2,16 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App .login div,
+.App .registration {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App .login div input,
+.App .registration input {
+  margin-bottom: 20px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
