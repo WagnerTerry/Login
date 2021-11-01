@@ -12,4 +12,4 @@ login creation based on Pedro Tech project
 ## Run Project
 
 - front - yarn start
-- back - node index.js
+- back - cd server / node index.js
